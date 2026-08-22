@@ -1,0 +1,110 @@
+{
+  "home": {
+    "meta": {
+      "title": "Servant of the Lake Wiki — Walkthrough & Achievements",
+      "description": "Explore the Servant of the Lake wiki for a complete walkthrough, puzzle solutions, 49 achievements, hidden secrets, endings, and spoiler-aware help."
+    },
+    "hero": {
+      "eyebrow": "Independent Fan-Made Guide",
+      "title": "Servant of the Lake",
+      "description": "Take a job inside the Vanderboom estate and survive three unsettling days of chores, surreal puzzles, and alchemical secrets. Follow our spoiler-aware guides whenever the house stops making sense.",
+      "stats": [
+        "Launched Aug 13, 2026",
+        "Updated Aug 16, 2026",
+        "3.6K+ Steam Reviews",
+        "49 Achievements"
+      ],
+      "primaryCta": "Start the Beginner Guide",
+      "secondaryCta": "Browse Puzzle Solutions",
+      "tertiaryCta": "Track All Achievements",
+      "videoLabel": "Official Trailer"
+    },
+    "start": {
+      "eyebrow": "Start Here",
+      "title": "Your Servant of the Lake Journey",
+      "cards": [
+        {
+          "number": "1",
+          "title": "Beginner Guide",
+          "description": "Learn the controls, inventory system, room interactions, saving behavior, and spoiler-light basics before beginning your first day."
+        },
+        {
+          "number": "2",
+          "title": "Day 1 Walkthrough",
+          "description": "Complete the arrival, breakfast, household chores, Aldous sequence, and reception tasks without missing important objects."
+        },
+        {
+          "number": "3",
+          "title": "Puzzle Solutions",
+          "description": "Find clear solutions for the cups, flowers, exercise, berries, suitcase, symbols, combinations, and other estate puzzles."
+        },
+        {
+          "number": "4",
+          "title": "Achievement Guide",
+          "description": "Track all 49 Steam achievements, including hidden interactions, optional objectives, and easily missed story moments."
+        }
+      ]
+    },
+    "aboutGame": {
+      "title": "What is Servant of the Lake?",
+      "paragraphs": [
+        "Servant of the Lake is a premium single-player point-and-click puzzle adventure developed by Rusty Lake. You work inside the Vanderboom estate, completing daily chores that gradually turn into surreal and unsettling challenges.",
+        "Set decades before Rusty Lake: Roots, the game combines room exploration, observation puzzles, hidden achievements, dark humor, and mysterious alchemical experiments across a three-day stay."
+      ],
+      "stats": [
+        {
+          "label": "Developer",
+          "value": "Rusty Lake"
+        },
+        {
+          "label": "Platform",
+          "value": "Steam, itch.io, iOS, Android"
+        },
+        {
+          "label": "Genre",
+          "value": "Point-and-Click Puzzle Adventure"
+        },
+        {
+          "label": "Release Date",
+          "value": "Aug 13, 2026"
+        },
+        {
+          "label": "Steam Reviews",
+          "value": "3.6K+ Overwhelmingly Positive"
+        },
+        {
+          "label": "Achievements",
+          "value": "49"
+        },
+        {
+          "label": "Supported Languages",
+          "value": "23"
+        }
+      ],
+      "cta": "Explore All Guides"
+    },
+    "finalCta": {
+      "title": "Ready to Serve the Vanderbooms?",
+      "description": "From your first morning at the estate to its final secrets and hidden achievements, our spoiler-aware guides help you solve every task without losing the mystery.",
+      "primary": "Read the Beginner Guide",
+      "secondary": "Play on Steam"
+    }
+  },
+  "footer": {
+    "aboutTitle": "Servant of the Lake Wiki",
+    "about": "Servant of the Lake Wiki is an independent fan-made guide site for players exploring the Vanderboom estate. It covers day-by-day walkthroughs, puzzle solutions, achievements, secrets, and endings, and is not affiliated with Rusty Lake.",
+    "description": "Premium single-player point-and-click puzzle adventure set in the Vanderboom estate.",
+    "playGame": "Play Servant of the Lake on Steam",
+    "officialDiscord": "Official Discord",
+    "officialYoutube": "Official YouTube",
+    "communityTool": "Servant's Notes",
+    "privacyPolicy": "Privacy Policy",
+    "termsOfService": "Terms of Service"
+  },
+  "sidebarCodes": "暂无",
+  "metadata": {
+    "title": "Servant of the Lake Wiki — Walkthrough & Achievements",
+    "description": "Explore the Servant of the Lake wiki for a complete walkthrough, puzzle solutions, 49 achievements, hidden secrets, endings, and spoiler-aware help.",
+    "keywords": "Servant of the Lake, walkthrough, achievements, puzzle solutions, secrets, endings, Rusty Lake"
+  }
+}
