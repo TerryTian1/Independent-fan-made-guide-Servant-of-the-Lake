@@ -1,4 +1,5 @@
 import type { Metadata } from "next";
+import { SiteAnalytics } from "@/components/site-analytics";
 import { SiteFooter } from "@/components/site-footer";
 import { SiteHeader } from "@/components/site-header";
 import { SITE_URL } from "@/content/site-data";
@@ -28,6 +29,7 @@ export default function RootLayout({ children }: LayoutProps<"/">) {
         <div id="main-content">{children}</div>
         <SiteFooter />
       </body>
+      <SiteAnalytics measurementId={process.env.NEXT_PUBLIC_GA_ID} />
     </html>
   );
 }
